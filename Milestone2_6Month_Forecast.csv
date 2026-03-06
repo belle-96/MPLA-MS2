@@ -1,0 +1,121 @@
+YearMonth,City,Price_Segment,Forecasted_Sales
+2025-01,Baguio,Premium,8693664.0
+2025-02,Baguio,Premium,9252320.0
+2025-03,Baguio,Premium,6937728.0
+2025-04,Baguio,Premium,7597968.0
+2025-05,Baguio,Premium,7911306.67
+2025-06,Baguio,Premium,7930048.0
+2024-11,Baguio,Standard,6294362.67
+2024-12,Baguio,Standard,5693296.0
+2025-01,Baguio,Standard,7049541.33
+2025-02,Baguio,Standard,7443968.0
+2025-03,Baguio,Standard,6098773.33
+2025-04,Baguio,Standard,6332144.0
+2024-12,Cebu City,Premium,9836736.0
+2025-01,Cebu City,Premium,12109066.67
+2025-02,Cebu City,Premium,5792901.33
+2025-03,Cebu City,Premium,9965610.67
+2025-04,Cebu City,Premium,11494410.67
+2025-05,Cebu City,Premium,6580709.33
+2025-01,Cebu City,Standard,4666144.0
+2025-02,Cebu City,Standard,5983712.0
+2025-03,Cebu City,Standard,5938538.67
+2025-04,Cebu City,Standard,6371082.67
+2025-05,Cebu City,Standard,6766965.33
+2025-06,Cebu City,Standard,7428624.0
+2024-12,Davao City,Premium,6665306.67
+2025-01,Davao City,Premium,5623930.67
+2025-02,Davao City,Premium,4114656.0
+2025-03,Davao City,Premium,6223205.33
+2025-04,Davao City,Premium,5862640.0
+2025-05,Davao City,Premium,5144458.67
+2025-01,Davao City,Standard,4764293.33
+2025-02,Davao City,Standard,4789306.67
+2025-03,Davao City,Standard,4267722.67
+2025-04,Davao City,Standard,4181744.0
+2025-05,Davao City,Standard,4667973.33
+2025-06,Davao City,Standard,4641690.67
+2025-01,Makati,Premium,2814261.33
+2025-02,Makati,Premium,3054426.67
+2025-03,Makati,Premium,2222341.33
+2025-04,Makati,Premium,2416624.0
+2025-05,Makati,Premium,2566778.67
+2025-06,Makati,Premium,2485840.0
+2024-11,Makati,Standard,4150682.67
+2024-12,Makati,Standard,4356277.33
+2025-01,Makati,Standard,4257605.33
+2025-02,Makati,Standard,4394581.33
+2025-03,Makati,Standard,4236512.0
+2025-04,Makati,Standard,4366133.33
+2024-12,Mandaluyong,Premium,7476933.33
+2025-01,Mandaluyong,Premium,8316000.0
+2025-02,Mandaluyong,Premium,7996277.33
+2025-03,Mandaluyong,Premium,7704330.67
+2025-04,Mandaluyong,Premium,7756821.33
+2025-05,Mandaluyong,Premium,7798410.67
+2024-12,Mandaluyong,Standard,5130010.67
+2025-01,Mandaluyong,Standard,5890826.67
+2025-02,Mandaluyong,Standard,5172496.0
+2025-03,Mandaluyong,Standard,7320954.67
+2025-04,Mandaluyong,Standard,7014896.0
+2025-05,Mandaluyong,Standard,5813994.67
+2024-11,Manila,Premium,16395754.67
+2024-12,Manila,Premium,21888496.0
+2025-01,Manila,Premium,13795413.33
+2025-02,Manila,Premium,14991237.33
+2025-03,Manila,Premium,20559466.67
+2025-04,Manila,Premium,16864288.0
+2024-12,Manila,Standard,8725733.33
+2025-01,Manila,Standard,8959141.33
+2025-02,Manila,Standard,7454384.0
+2025-03,Manila,Standard,9080736.0
+2025-04,Manila,Standard,8896048.0
+2025-05,Manila,Standard,8406794.67
+2024-12,Parañaque,Premium,6083989.33
+2025-01,Parañaque,Premium,5820640.0
+2025-02,Parañaque,Premium,5789541.33
+2025-03,Parañaque,Premium,6119045.33
+2025-04,Parañaque,Premium,5992149.33
+2025-05,Parañaque,Premium,6114117.33
+2024-12,Parañaque,Standard,4377221.33
+2025-01,Parañaque,Standard,5063072.0
+2025-02,Parañaque,Standard,7899920.0
+2025-03,Parañaque,Standard,7554848.0
+2025-04,Parañaque,Standard,6853429.33
+2025-05,Parañaque,Standard,7077578.67
+2025-01,Pasig,Premium,7532560.0
+2025-02,Pasig,Premium,7407680.0
+2025-03,Pasig,Premium,7254128.0
+2025-04,Pasig,Premium,8265040.0
+2025-05,Pasig,Premium,7811104.0
+2025-06,Pasig,Premium,8524618.67
+2025-01,Pasig,Standard,4832464.0
+2025-02,Pasig,Standard,7498736.0
+2025-03,Pasig,Standard,3463824.0
+2025-04,Pasig,Standard,4185029.33
+2025-05,Pasig,Standard,4792890.67
+2025-06,Pasig,Standard,4738160.0
+2024-11,Quezon City,Premium,7630672.0
+2024-12,Quezon City,Premium,7500229.33
+2025-01,Quezon City,Premium,7487648.0
+2025-02,Quezon City,Premium,7416341.33
+2025-03,Quezon City,Premium,7450352.0
+2025-04,Quezon City,Premium,7450352.0
+2024-12,Quezon City,Standard,1652560.0
+2025-01,Quezon City,Standard,1575168.0
+2025-02,Quezon City,Standard,1876709.33
+2025-03,Quezon City,Standard,1797637.33
+2025-04,Quezon City,Standard,1786474.67
+2025-05,Quezon City,Standard,1912624.0
+2025-01,Taguig,Premium,7290005.33
+2025-02,Taguig,Premium,7805466.67
+2025-03,Taguig,Premium,7946810.67
+2025-04,Taguig,Premium,8078896.0
+2025-05,Taguig,Premium,8078896.0
+2025-06,Taguig,Premium,8078896.0
+2024-11,Taguig,Standard,17218133.33
+2024-12,Taguig,Standard,18581285.33
+2025-01,Taguig,Standard,14447104.0
+2025-02,Taguig,Standard,17390352.0
+2025-03,Taguig,Standard,17927989.33
+2025-04,Taguig,Standard,17540581.33
