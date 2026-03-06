@@ -34,7 +34,7 @@ Outputs:
 --------
 - forecast_overall : Overall 6-month forecast
 - forecast_city_product : City × Price Segment 6-month forecast
-- Milestone2_6Month_Forecast.csv : Submission-ready CSV with all forecasts
+- Milestone2_6Month_Forecast.csv
 - Visualizations:
   - Overall sales line chart
   - City-level forecast line chart
