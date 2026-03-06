@@ -28,7 +28,7 @@ Processing Steps:
 3. Train Random Forest models to capture trends
 4. Forecast next 6 months sales
 5. Visualize results (line plots, heatmaps)
-6. Generate CSV output for Milestone 2 submission
+6. Generate CSV output for THE 6MONTHS FORECAST
 
 Outputs:
 --------
